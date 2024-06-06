@@ -1,1 +1,3 @@
 # hydraulic-scissor-left-simulation
+This project focuses on the comprehensive design and simulation of a hydraulic scissor lift. The design is created using SolidWorks, providing a detailed 3D model of the scissor lift mechanism. Additionally, a circuit simulation is performed using FluidSIM to analyze the hydraulic system's behavior and performance. The project also includes an electrical system integration for the scissor lift, with corresponding graphs and data to illustrate the operational dynamics. This combination of mechanical design, hydraulic simulation, and electrical analysis offers a complete overview of the scissor lift's functionality, making it a valuable resource for understanding the intricate details of such systems.
+
